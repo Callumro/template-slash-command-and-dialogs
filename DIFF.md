@@ -19,7 +19,7 @@ Now, instead of calling an API to open a dialog is replaced with the new view AP
 
 ### OAuth Token
 
-Your OAuth access token should begins with `-xoxb` instead of `-xoxp`. The bot tokens will be the defaul token in future.
+Your OAuth access token should begins with `-xoxb` instead of `-xoxp`. The bot tokens will be the default token in future.
 
 
 ### Sigining Secret 
